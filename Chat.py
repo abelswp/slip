@@ -3,7 +3,7 @@ import openai
 import time
 
 # Tu clave de API de OpenAI
-openai.api_key = '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'
+openai.api_key = 'colocar_apikey_portapapeles'
 AUTHORIZATION = 'APP_USR-3279067117760088-062116-e9dfe84e415f2ae4c815c0e6385f66a9-234547054'
 
 #url para tener acceso a los mensajes recibidos de mercado libre
